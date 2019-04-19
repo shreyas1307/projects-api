@@ -1,0 +1,10 @@
+{
+  "project": [
+    {
+      "id": 1,
+      "name": "Movie-DB",
+      "img": "",
+      "Technologies": "React, OMDb API, Fetch"
+    }
+  ]
+}
