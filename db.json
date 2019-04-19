@@ -1,9 +1,9 @@
 {
   "project": [
     {
-      "id": 1,
-      "name": "Movie-DB",
-      "img": "",
+      "Id": 1,
+      "Name": "Movie-DB",
+      "Img": "",
       "Technologies": "React, OMDb API, Fetch"
     }
   ]
