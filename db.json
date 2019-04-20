@@ -1,27 +1,27 @@
 {
 	"project": [{
-			"Id": 1,
-			"Name": "Shreyas Website",
-			"Img": "N/A",
-			"Technologies": "HTML5. CSS3",
+			"id": 1,
+			"name": "Shreyas Website",
+			"img": "N/A",
+			"technologies": "HTML5. CSS3",
 			"url": "https://shreyas1307.github.io",
-			"Source-Code": "https://github.com/shreyas1307/shreyas1307.github.io"
+			"sourceCode": "https://github.com/shreyas1307/shreyas1307.github.io"
 		},
 		{
-			"Id": 2,
-			"Name": "Responsive Shapeshifter",
+			"id": 2,
+			"name": "Responsive Shapeshifter",
 			"Img": "N/A",
-			"Technologies": "HTM5, CSS3",
+			"technologies": "HTM5, CSS3",
 			"url": "N/A",
-			"Source-Code": "https://github.com/shreyas1307/responsive-shapeshifter"
+			"sourceCode": "https://github.com/shreyas1307/responsive-shapeshifter"
 		},
 		{
-			"Id": 1,
-			"Name": "Movie-DB",
-			"Img": "N/A",
-			"Technologies": "React, OMDb API, Fetch",
+			"id": 1,
+			"name": "Movie-DB",
+			"img": "N/A",
+			"technologies": "React, OMDb API, Fetch",
 			"url": "https://app-movie-db.herokuapp.com/",
-			"Source-Code": "https://github.com/shreyas1307/movie-db"
+			"sourceCode": "https://github.com/shreyas1307/movie-db"
 		}
 	]
 }
