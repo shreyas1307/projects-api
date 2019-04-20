@@ -2,7 +2,7 @@
 	"project": [{
 			"id": 1,
 			"name": "Shreyas Website",
-			"img": "N/A",
+			"img": "https://ibb.co/R78Vn5R",
 			"technologies": "HTML5. CSS3",
 			"url": "https://shreyas1307.github.io",
 			"sourceCode": "https://github.com/shreyas1307/shreyas1307.github.io"
@@ -18,7 +18,7 @@
 		{
 			"id": 3,
 			"name": "Movie-DB",
-			"img": "N/A",
+			"img": "https://ibb.co/2jBjBqG",
 			"technologies": "React, OMDb API, Fetch",
 			"url": "https://app-movie-db.herokuapp.com/",
 			"sourceCode": "https://github.com/shreyas1307/movie-db"
