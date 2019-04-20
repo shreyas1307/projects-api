@@ -10,7 +10,7 @@
 		{
 			"id": 2,
 			"name": "Responsive Shapeshifter",
-			"Img": "https://raw.githubusercontent.com/shreyas1307/projects-api/master/responsive-shapeshifter.png",
+			"img": "https://raw.githubusercontent.com/shreyas1307/projects-api/master/responsive-shapeshifter.png",
 			"technologies": "HTM5, CSS3",
 			"url": "N/A",
 			"sourceCode": "https://github.com/shreyas1307/responsive-shapeshifter"
