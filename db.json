@@ -18,7 +18,7 @@
 		{
 			"id": 3,
 			"name": "Movie-DB",
-			"img": "https://raw.githubusercontent.com/shreyas1307/projects-api/master/app-movie-db.png",
+			"img": "https://raw.githubusercontent.com/shreyas1307/projects-api/master/Movie-DB.png",
 			"technologies": "React, OMDb API, Fetch",
 			"url": "https://app-movie-db.herokuapp.com/",
 			"sourceCode": "https://github.com/shreyas1307/movie-db"
