@@ -22,6 +22,14 @@
 			"technologies": "React, OMDb API, Fetch",
 			"url": "https://app-movie-db.herokuapp.com/",
 			"sourceCode": "https://github.com/shreyas1307/movie-db"
-		}
+		},
+		{
+			"id": 4,
+			"name": "Weather App",
+			"img": "https://raw.githubusercontent.com/shreyas1307/projects-api/master/vanillajs-weather-app.png,
+			"technologies": "HTML, CSS, JavaScript, DarkSkyAPI",
+			"url": "https://weatherapp-api.netlify.com",
+			"sourceCode": "https://github.com/shreyas1307/vanillajs-weather-api"
+		}  
 	]
 }
